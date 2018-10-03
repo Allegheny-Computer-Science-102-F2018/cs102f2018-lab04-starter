@@ -10,10 +10,10 @@
 ## Introduce and describe your three data sets. How were these sets chosen by your group?
 
 
-## Introduce and decribe your Boolean equation to compute your final decision. Justify and motivate the use of this equation. How does the equation work?
+## Introduce and describe your Boolean equation to compute your final decision. Justify and motivate the use of this equation. How does the equation work?
 
 
-## Output: What was the decision following from applying each of the three data sets to the equation?
+## Output: What was the decision that followed from applying each of the three data sets to the boolean equation? Discuss how to interpret this decision in terms of the initial Boolean values and the Boolean equation.
 
 
 
